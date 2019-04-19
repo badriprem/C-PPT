@@ -1,2 +1,2 @@
-# C-PPT
+# C sharp PPT
 C# PPT
